@@ -26,11 +26,10 @@
   height: 40px;
 
 }
-/*
-.navbar.center .navbar-inner {
-    text-align: center;
-} */
 
+.img-social:hover{
+  border: 3px outset white;
+}
 .img-post{
   width: 100%;
   border-radius: 5px;
