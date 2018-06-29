@@ -1,9 +1,30 @@
 .contenido {
   margin: 0 auto;
   width: 90%;
+  /* background-color: #00091a; */
 }
-.borderradiusnegro{
-  /* border: 0.5px solid black; */
+
+.container-fluid{
+  background-color: 	#99ddff;
+  font-family: cursive;
+  font-weight: bolder;
+  /* font-style: oblique; */
+  color: black;
+}
+
+.navbar{
+  background-color: #f2f2f7;
+  color: black;
+}
+.container{
+  background-color: #f2f2f7;
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 100%;
+  color: black;
+}
+.nav .nav-justified{
+  color: black;
 }
 
 .logo-img {
@@ -56,6 +77,14 @@
 margin-top: 20px;
 }
 
+/* .form-control{
+  background-color: #f2f2f7;
+  color: white;
+} */
+.list-group{
+  background-color: #e6fff7;
+
+}
 
 @media (max-width:1000px) {
   .redes-sociales {
