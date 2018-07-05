@@ -35,13 +35,14 @@ hr{
 }
 .fondo-secciones{
   background-color: 	rgba(242, 230, 255, 1);
-  background-size: cover;
+  background-size: contain;
   border-radius: 10px;
+  margin-left: 2%;
+  padding: 2%;
 }
 
 .espaciado{
-  margin-left: 2%;
-  padding: 2%;
+  height: 700px;
 }
 
 .bordes-menu{
@@ -114,10 +115,8 @@ a{
   border: 0.5px white solid;
 }
 
-.comentario{
-  vertical-align: middle;
-  /* margin-left: 12%; */
-}
+
+
 .bordes_comentarios{
   border: 0.5px solid #e01d3c;
   /* margin-left: 5px; */
@@ -128,9 +127,22 @@ a{
   vertical-align: center;
 }
 
+.comentario{
+  width: 90%;
+  height: 70%;
+  color: green;
+  padding: 10px;
+
+}
+
 img[src*="avatar"]{
   width: 80%;
-  /* height: 100px; */
   margin-right: 5%;
-  vertical-align: middle;
+
+}
+
+@media (max-width: 770px) {
+.esp-avatar{
+  padding-top: 10px;
+}
 }
