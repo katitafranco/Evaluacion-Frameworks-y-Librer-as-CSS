@@ -1,0 +1,26 @@
+<svg width="150" height="250" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata36">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="252" width="152" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="layer1">
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.492899" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0.6382604501302379,0.27605949105429134,-0.24987489038048735,0.7051443014331608,67.16150425005918,75.47889777841738) " ry="11.633586" y="97.787877" x="58.72279" height="65.789948" width="18.920902" id="rect79"/>
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.492899" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0.6286041312368356,-0.30189450247367977,0.27325941746826915,0.6944760887323508,73.68052391657932,89.79972906420696) " ry="11.633586" y="96.193364" x="-30.685864" height="65.789948" width="18.920902" id="rect79-0"/>
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.515" stroke-linejoin="round" stroke-miterlimit="4" ry="11.633597" y="123.768563" x="75.694129" height="52.987979" width="21.540002" id="rect111"/>
+   <ellipse stroke="#b32600" fill="#b32600" stroke-width="0.515" stroke-linejoin="round" stroke-miterlimit="4" ry="10.876546" rx="10.62212" cy="110.029758" cx="86.834397" id="path921"/>
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.543017" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0.6519532238464212,0.23376406600209476,-0.2542308559362018,0.70324127766079,68.98077188117168,83.0057308168034) " ry="5.65941" y="109.941854" x="-5.603852" height="68.930054" width="27.374693" id="rect923"/>
+   <ellipse stroke="#b32600" fill="#f2ebe9" stroke-width="3" stroke-linejoin="round" stroke-miterlimit="4" ry="4.273" rx="3.801425" cy="207.612066" cx="37.970767" id="path925"/>
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.505388" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0.4738189711204648,0.5471888069565565,-0.457012173377372,0.564367275501439,68.98077188117168,83.0057308168034) " ry="5.610684" y="23.096426" x="48.46356" height="59.31295" width="14.418691" id="rect931"/>
+   <rect stroke="#b32600" fill="#b32600" stroke-width="0.515" stroke-linejoin="round" stroke-miterlimit="4" transform="matrix(0.5036861017343741,0.5135960701417952,-0.4648808169442403,0.5564677934792982,67.94579184119073,67.75636520578342) " ry="2.267857" y="83.44602" x="70.943793" height="45.357143" width="4.535714" id="rect950"/>
+   <path stroke="#b32600" fill="#b32600" stroke-width="1.352858" stroke-linejoin="round" stroke-miterlimit="4" id="path954" d="m109.235432,145.039382c-5.902852,-0.770357 -13.004596,-3.752297 -16.349177,-6.864833c-1.234527,-1.148872 -1.292823,-1.396252 -1.292823,-5.485944c0,-2.719361 -0.243951,-4.899366 -0.66826,-5.971747c-0.367541,-0.928904 -0.584822,-1.688917 -0.482844,-1.688917c0.101978,0 4.227408,2.712689 9.167615,6.028193l8.982186,6.028201l7.524346,-1.448601c4.138385,-0.796725 7.669047,-1.448594 7.845915,-1.448594c0.430183,0 1.93126,8.409552 1.618958,9.069971c-0.611883,1.293924 -11.222725,2.450876 -16.345915,1.782271z"/>
+   <text stroke="#b32600" font-style="normal" font-weight="normal" font-size="28.699911px" font-family="sans-serif" fill="#b32600" stroke-width="0.717498" text-anchor="middle" transform="matrix(0.5526353128958092,0,0,0.9392198916590644,93.98077114600905,71.00572898451719) " id="text958" y="-27.894552" x="41.972919" xml:space="preserve">
+    <tspan stroke="#b32600" font-style="normal" font-weight="bold" font-family="'Segoe Script'" fill="#b32600" stroke-width="0.717498" text-anchor="middle" y="-27.894552" x="-44.351024" id="tspan956">Mi Blog</tspan>
+    <tspan stroke="#b32600" font-style="normal" font-weight="bold" font-family="'Segoe Script'" fill="#b32600" stroke-width="0.717498" text-anchor="middle" id="tspan960" y="7.980333" x="-44.351024">de Turismo</tspan>
+   </text>
+  </g>
+ </g>
+</svg>
