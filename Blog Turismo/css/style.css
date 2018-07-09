@@ -44,6 +44,7 @@ border: none;
   /* height: 100px; */
 }
 
+
 img[class^='img_bloque']
 {
   margin-top: 10px;
@@ -53,3 +54,34 @@ border-style:  groove;
 border-radius: 5px;
 
 }
+
+.img_blog{
+width: 250px;
+margin-top: 10px;
+border-radius: 5px;
+}
+
+.foto-autor{
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+
+ .espaciado{
+  border-radius: 10px;
+  padding-top: 10px;
+  margin-right: 10px;
+}
+
+ .espaciado1{
+
+  border-radius: 10px;
+  padding-top: 10px;
+  width: 300px;
+}
+
+/* p{
+  margin: 50px;
+} */
