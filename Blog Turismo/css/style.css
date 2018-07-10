@@ -4,12 +4,12 @@
 .img-logo{
   /* width: 200px; */
   height: 150px;
+  width: 190px;
   border: 3px solid white;
   border-style:  groove;
   border-radius: 5px;
   margin: 5px;
 }
-
 
 body{
   margin:0 auto;
@@ -27,7 +27,6 @@ body{
 .nav-title{
   margin-left: 220px;
   font-style: italic;
-
 }
 
 .menu-ico{
@@ -68,7 +67,7 @@ img[class^='img_bloque']
 
 }
 
-.img_blog{
+.img-blog{
 width: 250px;
 margin-top: 10px;
 /* margin: 20px; */
@@ -96,7 +95,7 @@ border-radius: 5px;
   padding: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .barra-superior{
     min-height: 16rem;
     margin: 0 auto;
@@ -104,6 +103,7 @@ border-radius: 5px;
   }
   .img-blog{
     text-align: center;
+    width: 100%;
   }
   .brand-logo{
     padding-left: 10px;
@@ -116,11 +116,20 @@ border-radius: 5px;
   .nav{
     margin: 0auto;
   }
-  /* .espaciado-blog{
-    padding: 0px;
-  } */
+
 }
 
+@media (max-width: 1000px) {
+  .menu{
+    margin-top: 160px;
+    text-align: center;
+  }
+   .barra-superior{
+      min-height: 16rem;
+      margin: 0 auto;
+      margin-bottom: 0px;
+    }
+}
 p{
   text-align: justify;
 }
